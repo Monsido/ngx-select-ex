@@ -16,6 +16,7 @@ dist.tgz
 # IDEs and editors
 /.idea
 .project
+.vim
 .classpath
 .c9/
 *.launch
